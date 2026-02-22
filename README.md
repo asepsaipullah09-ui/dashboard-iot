@@ -21,7 +21,7 @@ ESP32 → ThingSpeak Cloud → Dashboard Web
 
 ---
 
-## 🛠️ Teknologi
+## Teknologi
 - ESP32
 - ThingSpeak IoT Cloud
 - HTML CSS JavaScript
